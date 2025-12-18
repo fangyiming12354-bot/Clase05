@@ -1,6 +1,7 @@
 /*inicializar estilos globales*/
 body {
     margin: 0;
+    text-align: center;
 }
 div {
     box-sizing: border-box;
