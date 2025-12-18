@@ -1,0 +1,15 @@
+/*inicializar estilos globales*/
+body {
+    margin: 0;
+}
+div {
+    box-sizing: border-box;
+    display: block;
+    margin: 16px;
+    height: min-content;
+    width: min-content;
+    background-color: steelblue;
+    font-size: 64px;
+    padding: 62px;
+    border: 40px solid indigo;
+}
